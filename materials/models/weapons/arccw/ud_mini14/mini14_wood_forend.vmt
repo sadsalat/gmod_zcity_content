@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture "models/weapons/arccw/ud_mini14/mini14_wood_forend"
+	$bumpmap "models/weapons/arccw/ud_mini14/mini14_wood_forend_n"
+	"$nocull"	"1"
+	"$halflambert" 		"1"
+
+	"$phong" 	"1"
+	"$phongboost"	 "0.7"
+	"$phongfresnelranges" "[0.25 0.25 1.25]"
+
+	"$phongtint"         "[0.6 0.8 1.0]"
+}

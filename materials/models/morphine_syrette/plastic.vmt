@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\morphine_syrette\plastic"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "glass"
+	"$translucent" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .5 .5 .75]"
+
+}

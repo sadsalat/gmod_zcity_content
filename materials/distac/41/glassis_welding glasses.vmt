@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "distac/41/GLASSIS_WELDING_GLASSES"
+	"$bumpmap" "distac/41/glassis_normal_"
+
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[0.70 0.70 0.70]"
+	"$envmapcontrast" "0.5"
+	"$envmapfresnel" "1"
+	"$envmaplightscale" "1"
+	"$envmaplightscaleminmax" "[0 1]"
+
+	"$phong" "1"
+	"$phongfresnelranges" "[0.2 0.5 3]"
+	"$phongalbedotint" "1"
+	"$phongexponent" "5"
+	"$phongboost" "19"
+	"$phongalbedoboost" "170"
+}

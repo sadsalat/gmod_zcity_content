@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\hmcd\beanbag\beanbag9"
+	"$surfaceprop" "paper"
+}

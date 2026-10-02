@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models\weapons\nam\ak47/d_akm_metal"
+	"$color"			"[1 1 1]"
+	$nocull 1
+}

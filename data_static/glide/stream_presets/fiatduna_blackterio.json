@@ -1,0 +1,23 @@
+{
+	"kv":{
+		"volume":0.8,
+		"fadeDist":2000.0,
+		"redlineFrequency":70.0
+		},
+		"layers":{
+			"idle":{
+			"path":"blackterios_glide_vehicles/fiatduna/idle.wav",
+		"controllers":
+		[
+		["rpmFraction",0.0,0.6,"volume",0.8,0.0],
+		["rpmFraction",0.0,1.0,"pitch",1,2.5]
+		],
+		"redline":false},
+		"rpm_high":{
+			"path":"blackterios_glide_vehicles/fiatduna/high.wav",
+			"controllers":
+			[["rpmFraction",0.0,0.2,"volume",0.0,1.0],
+			["rpmFraction",0.0,1.0,"volume",0.4,1.0],
+			["rpmFraction",0.0,1.0,"pitch",0.5,1.1],
+			["throttle",0.0,1,"volume",1,1.0]],
+			"redline":true}}}

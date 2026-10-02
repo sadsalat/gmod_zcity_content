@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/rainworld/scug/SeyeC_diff"
+	$surfaceprop Flesh
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.2 0.2 0.2]"
+}

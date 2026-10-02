@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "blackterios_glide_vehicles/fiatduna/tex3"
+	"$allowdiffusemodulation" "false"
+
+	$emissiveBlendEnabled "1"
+	$emissiveBlendStrength "1"
+	$emissiveBlendTexture "vgui/white"
+	$emissiveBlendBaseTexture "blackterios_glide_vehicles/fiatduna/tex3on"
+	$emissiveBlendFlowTexture "vgui/white"
+	$emissiveBlendTint "[ 1 1 1 ]"
+	$emissiveBlendScrollVector "[ 0 0 ]"
+}

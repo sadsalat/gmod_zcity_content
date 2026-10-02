@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/eft/helmets/mats/helmet_ssh-68_d"
+   	 "$bumpmap" "models/eft/helmets/mats/helmet_ssh-68_n"
+
+    "$phong" "1"
+    "$phongexponenttexture" "models/eft/helmets/mats/helmet_ssh-68_g"
+//    "$phongalbedotint" "1"
+    "$phongboost" "1"
+    "$phongfresnelranges"    "[.3 .3 .3]"
+}

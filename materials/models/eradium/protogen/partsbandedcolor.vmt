@@ -1,0 +1,14 @@
+patch
+{
+include "materials/models/eradium/protogen/parts_shared.vmt"
+insert
+{
+"$basetexture" "models/eradium/protogen/BodyBanded"
+	Proxies {
+		PlayerColor {
+			 resultVar $color2
+			 myVariable $color
+			}
+		}
+}
+}

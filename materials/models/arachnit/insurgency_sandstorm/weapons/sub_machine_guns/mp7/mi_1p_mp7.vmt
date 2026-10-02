@@ -1,0 +1,47 @@
+//Arachnit's super duper cool MLG vmt config, donut steal plz. :(
+
+"VertexLitGeneric"
+{
+//Basic
+	"$BaseTexture" 			    "models/arachnit/insurgency_sandstorm/weapons/sub_machine_guns/mp7/T_1P_MP7_BC"
+">=dx90"
+{
+	"$BumpMap" 				    "models/arachnit/insurgency_sandstorm/weapons/sub_machine_guns/mp7/T_1P_MP7_N"
+	"$PhongExponentTexture"     "models/arachnit/insurgency_sandstorm/weapons/sub_machine_guns/mp7/T_1P_MP7_M"
+
+//Warp
+	"$LightWarpTexture"         "models/arachnit/shared/clothes_wrp2"		//< Change as needed
+
+//Phong
+	"$Phong"				    "1"
+	"$PhongBoost"               "0.4" 	//< Change as needed
+//	"$PhongExponent"            "15" 	//< $PhongExponent overrides $PhongExponentTexture !!!
+	"$PhongFresnelRanges"	    "[0.3 1 4]"
+	"$PhongAlbedoTint"          "0"
+	"$PhongDisableHalfLambert"  "1"
+	"$NormalmapAlphaPhongMask"  "1"
+
+//Rimlight
+	"$Rimlight" 			    "0"
+}
+
+//Other
+	"$Model"                    "1"
+	"$HalfLambert" 			    "0"
+	"$NoDecal" 				    "0"
+	"$AmbientOcclusion" 	    "1"
+	"$NoCull" 				    "1"
+	"$SurfaceProp" 			    "metal"
+//	"$BlendTintByBaseAlpha"     "1"
+//	"$Color2"					"{ 0 0 0 }"	//< RGB colors
+	"$CloakPassEnabled" 		"1" 	//< For SFM and TF2
+//	"$CloakColorTint" 			"[0.4 0.5 1]" // BLU
+//	"$CloakColorTint" 			"[1 0.5 0.4]" // RED
+
+"<dx90"
+{
+	"$NoDecal" 				    "1"
+	"$AmbientOcclusion" 	    "0"
+	"$SurfaceProp" 			    "no_decal"
+}
+}

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture null
+	$no_draw	"1"
+}

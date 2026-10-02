@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\tfa_hl2r\v_rpg_new\v_rpg_body_d"
+	"$bumpmap" "models\weapons\tfa_hl2r\v_rpg_new\v_rpg_body_n"
+
+	"$phong"					"1"
+	"$phongexponent"			"10"
+	"$phongboost"				"0.75"
+	"$phongfresnelranges"		"[2 4 6]"
+	"$phongtint"				"[0.6 0.8 1.0]"
+				
+	"$envmap"					"env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"				"[.066 .06 .05]"
+}

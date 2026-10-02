@@ -1,0 +1,7 @@
+"Teeth"
+{
+	"$basetexture" "models\mpd\pig_shared\mouth"
+	"$model" 1
+	"$clientshader" "MouthShader"
+	"$halflambert" 1
+}

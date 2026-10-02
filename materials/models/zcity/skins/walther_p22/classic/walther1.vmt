@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/zcity/skins/walther_p22/classic/walther1"
+	"$bumpmap" "models/zcity/skins/walther_p22/classic/walther1_n"
+	"$surfaceprop" "Metal"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[0.02 0.02 0.02]"
+	"$envmapfresnel" "0.10"
+	"$envmaplightscale" "1"
+	"$envmapanisotropy" "1"
+	"$envmapanisotropyscale" "0.01"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models/zcity/skins/walther_p22/classic/walther1_p"
+	"$phongfresnelranges" "[0.01 0.01 0]"
+	"$phongboost" "5"
+}

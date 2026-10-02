@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mpd/Pig_Male/logo_gold"
+	"$bumpmap" "models/mpd/Pig_Male/logo1_nm"
+	"$nodecal" "1"
+	"$phong" "1" 
+	"$phongboost" "2" 
+	"$phongfresnelranges" "[3 1 1]" 
+	"$phongexponent" 150
+	"$envmaptint" "[0.7 0.7 0.7]"
+	"$halflambert" 1
+
+	"$rimlight" "1"										
+	"$rimlightexponent" "20"							
+	"$rimlightboost" "0.1"
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/salat_port/slugcats/monk.vtf"
+
+	$lightwarptexture "models/salat_port/slugcats/toon"
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "dejtriyev/enhanced_national_guard/nationalguardvest"
+	"$bumpmap" "dejtriyev/enhanced_national_guard/nationalguardvest_n"
+
+$halflambert 0
+$ambientocclusion 1
+	"$nocull" 1
+}

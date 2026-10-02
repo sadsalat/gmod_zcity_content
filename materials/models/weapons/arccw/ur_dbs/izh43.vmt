@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\arccw\ur_dbs\d_izh43"
+	"$bumpmap" "models\weapons\arccw\ur_dbs\n_izh43"
+	"$phongexponenttexture" "models\weapons\arccw\ur_dbs\exp_izh43"
+
+	"$basealphaenvmapmask" "1"
+	"$color2" "[0.92 0.92 0.92]"
+	"$phongwarptexture" "models\weapons\arccw\ud_stalol\phongwarp_metal"
+
+	"$blendTintByBaseAlpha" "1"
+	"$phong" "1"
+	"$phongboost" "30"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[0.5 1.5 3.0]"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.01 .01 .008]"
+
+	"Proxies"
+	{
+		"MwEnvMapTint"
+		{
+			"min" "0.001"
+			"max" "0.01"
+		}
+	}
+}

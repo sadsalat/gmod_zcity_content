@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "dejtriyev/enhanced_national_guard/nationalguard_sheet"
+        "$halflambert" 1
+}

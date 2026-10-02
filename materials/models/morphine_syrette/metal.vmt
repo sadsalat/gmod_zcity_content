@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+"$basetexture" "models\morphine_syrette\metal"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	$envmapsaturation 0.1
+	"$envmaptint"			"[0.6 0.6 0.6]"
+
+}

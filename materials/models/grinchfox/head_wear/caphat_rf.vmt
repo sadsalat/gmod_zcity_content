@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/grinchfox/head_wear/baseballhat_rf"
+	$halflambert 1
+	$bumpmap "models/grinchfox/head_wear/caphat_normal"
+	$phong 1
+	$phongexponent   "20"
+ 	$phongboost   "1"
+ 	$phongfresnelranges   "[0.6 0.6 1]"
+}

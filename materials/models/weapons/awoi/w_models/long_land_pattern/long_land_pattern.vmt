@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\AWoI\w_models\long_land_pattern/long_land_pattern"
+	//"$bumpmap" "models\weapons\AWoI\w_models\long_land_pattern/long_land_pattern_n"
+	"$nocull" "1"
+}

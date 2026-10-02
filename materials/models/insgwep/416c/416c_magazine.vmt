@@ -1,0 +1,21 @@
+"VertexLitGeneric" 
+{
+	"$basetexture" 				"models\insgwep\416C\416C_Magazine_Albedo"
+	"$bumpmap" 					"models\insgwep\416C\416C_Magazine_Normal"
+	$phongexponenttexture		"models\insgwep\416C\416C_Magazine_Exponent"
+	
+	$normalmapalphaenvmapmask 		"1"
+
+	$phongtint						"[0.6 0.6 0.6]"
+
+	$envmap 						env_cubemap
+	$envmaptint 					"[.005 .005 .005  ]"
+
+	$phong 							"1"
+	$PhongAlbedoTint 				"1"	
+	
+	$phongboost 					"0.01"
+	$phongfresnelranges				"[0.01 0.01 0.01]"
+
+//$fuzz 1
+}

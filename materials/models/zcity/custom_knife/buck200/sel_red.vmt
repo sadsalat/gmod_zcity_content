@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/zcity/custom_knife/buck200/base"
+	
+	"$surfaceprop" "Metal"
+	"$envmap" "env_cubemap"
+	$envmapmask		"models/zcity/custom_knife/buck200/base_roughness"
+}

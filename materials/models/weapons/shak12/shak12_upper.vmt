@@ -1,0 +1,24 @@
+"VertexLitGeneric" 
+{
+	"$basetexture"		"models\weapons\shak12\upper_df"
+	"$bumpmap" 		"models\weapons\shak12\upper_nm"
+	"$model"						"1"
+	//$halflambert					1
+	$nocull						1
+
+//PHONG
+	"$phong"                        "1"
+	//"$phongtint"                    "[1 .9 .8 ]"
+	"$phongboost"                   "2"
+	//$basemapalphaphongmask 1
+	$basemapluminancephongmask 1
+	//"$phongexponent"				"50"
+	"$phongExponentTexture"			 "models\weapons\shak12\upper_spec"
+	"$phongfresnelranges"		 "[0.4 1 3]"
+	$phongalbedotint		1
+
+//ENVMAP
+	"$envmap"						"env_cubemap"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmaptint" "[ 0.02 0.02 0.02 ]"
+}

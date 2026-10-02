@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\AWoI\w_models\english_dragoon_pistol/english_dragoon_pistol"
+	//"$bumpmap" "models\weapons\AWoI\w_models\english_dragoon_pistol/english_dragoon_pistol_n"
+	"$nocull" "1"
+}

@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/gang_1/gang_arms_shirt"
+	"$halflambert" "1"
+	
+	"$rimlight" "1"
+	"$rimlightexponent" "8"
+	"$rimlightboost" "2"
+	"$rimmask" "1"
+}

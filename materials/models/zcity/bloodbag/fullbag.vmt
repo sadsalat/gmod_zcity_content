@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+    "$basetexture" "models\zcity\bloodbag\fullbag"
+    "$bumpmap" "models\zcity\bloodbag\normal"
+}

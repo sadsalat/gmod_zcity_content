@@ -1,0 +1,16 @@
+vertexlitgeneric
+{
+	"$basetexture" "runaway911\props\item\flashlight\body"
+	"$bumpmap" "runaway911\props\item\flashlight\body_normal"
+	"$surfaceprop" "glassbottle"
+	"$envmap" "env_cubemap"
+    "$bumpmapalphaphongmask" 1
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "2"
+	"$phongtint" "[1 1 1]"
+	"$halflambert" "0"
+	"$phongfresnelranges" "[.4 .8 30]"
+	"$ambientocclusion" "1"
+	"$diffuseexp" "1.5"
+}

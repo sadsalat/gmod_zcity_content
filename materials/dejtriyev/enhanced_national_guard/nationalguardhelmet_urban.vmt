@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"dejtriyev/enhanced_national_guard/nationalguardhelmet_urban"
+	"$bumpmap" "dejtriyev/enhanced_national_guard/nationalguardhelmet_n"
+	//"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.25 0.5 1]"
+	$nocull 1
+}

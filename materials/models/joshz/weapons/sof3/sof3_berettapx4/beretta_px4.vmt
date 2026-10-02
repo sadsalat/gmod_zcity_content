@@ -1,0 +1,31 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\JoshZ\weapons\SoF3\sof3_berettapx4\beretta_px4"
+	"$bumpmap" "models\JoshZ\weapons\SoF3\sof3_berettapx4\beretta_px4_norm"
+
+	"$nocull" "0"
+	"$model" "1"
+
+//	"$AmbientOcclusion" "1"
+//	"$AmbientOcclTexture" "models\JoshZ\weapons\SoF3\sof3_berettapx4\beretta_px4_ao"
+//	"$AmbientOcclColor" "[ 0.5 0.5 0.5 ]"
+// SoF3 AO's are weird, and doesn't compare to the diffiuse maps AT ALL. I decided to skip it for these textures.
+
+	"$blendtintbybasealpha" "1"
+
+	"$phong" "1"
+	"$phongboost" "0.3"
+	"$phongexponent" "4"
+	"$phongfresnelranges" "[ 0.4 0.75 0.35 ]"
+	"$phongalbedotint" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "25"
+	"$rimlightboost" "0.65"
+
+	"$detail" "models\JoshZ\weapons\SoF3\sof3_berettapx4\beretta_px4_detail"
+	"$detailscale" "1" //DEV NOTE: Increases Detail map scale. 
+	"$detailblendfactor" "0.4" //DEV NOTE: decreases Detail transparency.
+	"$detailblendmode" "0" //DEV NOTE: increase to ruin texture.
+
+}

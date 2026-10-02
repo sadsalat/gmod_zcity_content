@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	$basetexture 						"models/weapons/tfa_ins2/akm_bw/AKM_Receiver_Diffuse"
+	$bumpmap 							"models/weapons/tfa_ins2/akm_bw/AKM_Receiver_Normal"
+	$phongexponenttexture				"models/weapons/tfa_ins2/akm_bw/AKM_Receiver_Exponent"
+
+	$normalmapalphaenvmapmask			1
+	$normalmapalphaphongmask			1
+	
+	$envmap								env_cubemap
+	$envmaptint							"[0.04 0.05 0.057]"
+	$envmapfresnel						1
+	
+	$phong								1
+	$phongboost							5.2
+	$phongfresnelranges					"[0.05 0.5 1]"
+	$phongtint							"[ 1 1 1 ]"
+	
+	$rimlight							1
+	$rimlightboost						0.4
+	$rimlightexponent					100
+	$rimmask							1
+}

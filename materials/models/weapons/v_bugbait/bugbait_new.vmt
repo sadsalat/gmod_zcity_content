@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Weapons/V_bugbait/bugbait_new"
+	"$bumpmap" "Models/Weapons/V_bugbait/bugbait_new_normal"
+	
+	"$phong"					"1"
+	"$phongboost"				"0.4"
+	"$phongexponent"			"40"
+	"$phongfresnelranges"		"[2 4 6]"
+	"$phongtint"				"[0.60 0.39 0.38]"
+				
+	"$envmap"					"env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"				"[.066 .06 .05]"
+
+
+}

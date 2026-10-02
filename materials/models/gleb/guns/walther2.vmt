@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/gleb/guns/walther2"
+	"$bumpmap" "models/gleb/guns/walther2_n"
+	"$surfaceprop" "Metal"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[1.10 1.10 1.10]"
+	"$envmapfresnel" "0.24"
+	"$envmaplightscale" "1"
+	"$envmapanisotropy" "1"
+	"$envmapanisotropyscale" "0.05"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models/gleb/guns/walther2_p"
+	"$phongfresnelranges" "[0.1 0.5 0.2]"
+	"$phongboost" "15"
+}

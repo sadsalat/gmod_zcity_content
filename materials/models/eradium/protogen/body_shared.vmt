@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$selfillum" "1"
+	"$selfillummask" "models/eradium/protogen/emission_mask"
+// 	"$bumpmap" "models/eradium/protogen/phong"
+	"$halflambert"	"1"
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "0"
+	"$phongfresnelranges" "[.3 1 8]"
+	"$lightwarptexture" "models/eradium/protogen/lightwarp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "8"
+	"$rimlightboost" "0"
+
+	"$ambientocclusion" "1"
+	
+	"$surfaceprop" "flesh"
+}
+
+//Original code made by Yunpol. (Edited by Heaventy) (Further Edited by username)

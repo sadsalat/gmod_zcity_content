@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+	$basetexture "models/rainworld/scug/Sbase dark_diff"
+	$surfaceprop Flesh
+	"$blendtintbybasealpha" "1"
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar		$color2 // pass the player color value to Gmod
+			default		0.23 0.35 0.41 // unused for now.
+		}
+		Clamp
+		{
+			min 0
+			max 1
+			srcVar1 "$color2"
+			resultVar "$color2"
+		}
+	}
+
+}

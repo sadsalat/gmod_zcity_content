@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "dejtriyev/enhanced_national_guard/vance_facemap"
+	//"$envmapsphere" 1
+	"$halflambert" 1
+}

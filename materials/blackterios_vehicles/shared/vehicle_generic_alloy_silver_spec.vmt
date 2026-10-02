@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "blackterios_vehicles/shared/cromo1"
+	"$detail" "blackterios_vehicles/shared/vehicle_generic_alloy_silver_spec"
+	"$surfaceprop" "Metal"
+
+
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost"	"2"
+	"$envmap" "env_cubemap"
+	"$envmapfresnel" "1.7"
+	"$phongfresnelranges" "[.4 .7 4]"
+	"$envmaptint" "[0.4 0.4 0.4]"
+	"$phongfix" "{20 20 20}"
+	"$colorfix" "{120 120 120 }"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+
+}

@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/arccw/ur_ak/survarium/rpk_74m_buttstock"
+	"$bumpmap" "models/weapons/arccw/ur_ak/survarium/rpk_74m_buttstock_n"
+	"$phongexponenttexture" "models/weapons/arccw/ur_ak/survarium/rpk_74m_buttstock_s"
+
+	"$phongwarptexture" "models/weapons/arccw/ud_stalol/phongwarp_metal"
+
+	"$color2" "[0.8 0.8 0.8]"
+
+	"$phong" "1"
+	"$phongboost" "19"
+	"$phongfresnelranges" "[0.32 0.72 0.99]"
+	"$phongalbedotint" "1"
+	"$phongtint" "[0.0075 0.0075 0.0075]"
+
+	"$rimlight" "1"
+	"$rimmask" "1"
+	"$rimlightboost" "0.6"
+	"$rimlightexponent" "53"
+}

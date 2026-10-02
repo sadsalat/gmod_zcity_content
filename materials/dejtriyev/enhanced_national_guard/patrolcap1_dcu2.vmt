@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "dejtriyev/enhanced_national_guard/patrolcap1_dcu2"
+        "$halflambert" 1
+	$nocull 1
+}

@@ -1,0 +1,20 @@
+// "M16A1 Customizable" (https://skfb.ly/6xGZC) by DavidFalke is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+VertexLitGeneric
+{
+	$basetexture				"models/weapons/arccw/ud_m16/DavidFalke_m16a1_launcher_base"
+	$bumpmap					"models/weapons/arccw/ud_m16/DavidFalke_m16a1_launcher_bump"
+	$phongexponenttexture		"models/weapons/arccw/ud_m16/DavidFalke_m16a1_launcher_phong"
+	$phongwarptexture			"models/weapons/arccw/ud_stalol/phongwarp_metal"
+	$color2						"[1.25 1.25 1.15]"
+
+	$normalmapalphaenvmapmask	1
+
+	$envmap						env_cubemap
+	$envmaptint					"[.002 .002 .002]"
+	$envmapfresnel				1
+
+	$phong						1
+	$phongboost					19
+	"$phongalbedotint" 			"1"
+	$phongfresnelranges			"[0.5 1.5 3.0]"
+}

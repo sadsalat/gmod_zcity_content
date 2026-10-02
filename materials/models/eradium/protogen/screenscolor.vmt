@@ -1,0 +1,16 @@
+patch
+{
+include "materials/models/eradium/protogen/screens_shared.vmt"
+insert
+{
+"$basetexture" "models/eradium/protogen/Body"
+"$selfillum" "1"
+"$selfillummask" "models/eradium/protogen/emission_mask"
+	Proxies {
+		PlayerColor {
+			 resultVar $color2
+			 myVariable $color
+			}
+		}
+}
+}

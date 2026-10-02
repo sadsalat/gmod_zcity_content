@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+	$translucent 1
+	$basetexture "decals/zcity/blood10"
+	$decal 1
+	$decalscale 0.06
+	$vertexcolor 1
+	$vertexalpha 1
+	"$detail"		"homigrad\decals\blood1_norm"
+	"$detailscale" "0.75"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "0.8"
+	"$detailtint" "[0.5 0 0]"
+
+	$modelmaterial decals/model_z_blood10
+}

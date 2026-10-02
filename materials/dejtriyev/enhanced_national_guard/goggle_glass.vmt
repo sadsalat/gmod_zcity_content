@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "dejtriyev/enhanced_national_guard/Goggle_glass"
+	
+
+// Specularity
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" "dejtriyev/enhanced_national_guard/mask_glass_spec"
+//	"$envmapsaturation" 0.25
+
+// Transparency
+	"$translucent" 1
+	
+	
+}

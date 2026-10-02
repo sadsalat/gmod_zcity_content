@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	$basetexture "models/grinchfox/weapons/handcuffs"
+	$bumpmap "models/grinchfox/weapons/handcuffs_normal"
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+//	$envmaptint "[0.8 0.8 0.8]"
+	$envmapcontrast "0.7"
+	$envmapsaturation 0.4
+	$detail detail\metal_detail_01
+	$detailscale 4
+	$detailblendfactor .9
+	$detailblendmode 0
+}

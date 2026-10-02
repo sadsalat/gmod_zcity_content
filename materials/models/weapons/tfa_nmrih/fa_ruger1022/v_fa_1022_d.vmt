@@ -1,0 +1,21 @@
+"vertexlitgeneric"
+{
+$baseTexture "models\weapons\tfa_nmrih\fa_ruger1022\v_fa_1022_d"
+$bumpmap "models\weapons\tfa_nmrih\fa_ruger1022\v_fa_1022_n"
+$halflambert "1"	
+$phong "1"
+$phongtint "[.7 .8 1]"
+$phongboost ".5"
+$phongexponent "1"
+$phongfresnelranges	"[1 0 1]"
+$surfaceprop "metal"
+$envmap env_cubemap
+$basetexturealphaenvmapmask 1
+$envmaptint "[0.22 0.27 0.3]"
+$envmapcontrast "0.25"
+$envmapsaturation "1.0"
+$multipass "1"
+$selfillum "1"
+$nocull "1"
+$selfillummask "models\weapons\tfa_nmrih\fa_ruger1022\v_fa_1022_illum"
+}

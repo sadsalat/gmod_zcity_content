@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "blackterios_vehicles/shared/vehicle_generic_detail2_normal"
+	"$translucent" 1
+}

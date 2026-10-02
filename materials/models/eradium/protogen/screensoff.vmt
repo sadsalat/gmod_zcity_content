@@ -1,0 +1,8 @@
+patch
+{
+include "materials/models/eradium/protogen/screens_shared.vmt"
+insert
+{
+"$basetexture" "models/eradium/protogen/ScreensOff"
+}
+}

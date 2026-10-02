@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+$baseTexture "models\DPFilms\Characters\Kran4es_Freeman\HEVhelmet_sheet"
+$bumpmap "models\DPFilms\Characters\Kran4es_Freeman\HEVhelmet_sheet_n"
+$nocull "1"
+
+$phong "1"
+//$phongexponent "3.5"
+$phongexponenttexture "models\DPFilms\Characters\Kran4es_Freeman\HEVhelmet_exp"
+$phongboost "1"
+$phongfresnelranges "[1 1 5]"
+$phongalbedotint 1
+
+$rimlight "1"	
+$rimlightexponent "5"
+$rimlightboost "1.5"
+}

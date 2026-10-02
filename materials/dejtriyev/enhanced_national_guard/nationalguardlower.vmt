@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "dejtriyev/enhanced_national_guard/NationalGuardLower"
+	"$halflambert" 1
+	$nocull 1
+}

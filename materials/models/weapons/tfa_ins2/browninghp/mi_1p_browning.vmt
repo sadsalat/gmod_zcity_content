@@ -1,0 +1,28 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\tfa_ins2\browninghp\T_1P_Browning_D2"
+	"$bumpmap" "models\weapons\tfa_ins2\browninghp\T_1P_Browning_N"
+	"$phongexponenttexture" "models\weapons\tfa_ins2\browninghp\T_1P_Browning_M2"
+	
+"$normalmapalphaphongmask"    "1"
+	"$envmaptint"	"[.25 .25 .25]"
+	"$normalmapalphaenvmapmask" 	"1"
+	"$nocull" "1"
+
+	"$phong"     "1"
+	"$phongexponent" "25"
+	"$phongboost"   ".15"
+	"$phongfresnelranges"      "[1 3 6]"
+	// "$phongtint"                   "[0.2 0.2 0.2]" 
+	"$phongalbedotint"		"1"
+	"$phongalbedoboost" 	"14"
+	"$halflambert" 		"1"
+
+	"$rimlight" 	"1"
+	"$rimlightexponent" 	"66"	
+	"$rimlightboost"	"0.6"
+	"$rimmask" 	"1"
+	
+	"$basemapluminancephongmask" "1"
+
+}

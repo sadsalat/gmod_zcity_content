@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/gang_ballas/gang_1_sun_glass"
+	"$normalmapalphaenvmapmask" 1
+	"$bumpmap" "models/gang_ballas/gang_1_sun_glass_normal"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .75 .75 .75]"
+}

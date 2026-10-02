@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gruchk_uwrist/css_seb_swat/swat/headphones"
+	"$nocull" 1
+}

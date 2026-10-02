@@ -1,0 +1,7 @@
+"Teeth"
+{
+	"$basetexture" "models/gang_ballas/gang_mouth"
+	"$model" 1
+	"$clientshader" "MouthShader"
+	"$halflambert" 1
+}

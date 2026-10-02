@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "blackterios_glide_vehicles/renaulttrafict1000d/interieur"
+	"$allowdiffusemodulation" "false"
+
+	$emissiveBlendEnabled "1"
+	$emissiveBlendStrength "1"
+	$emissiveBlendTexture "vgui/white"
+	$emissiveBlendBaseTexture "blackterios_glide_vehicles/renaulttrafict1000d/interieur"
+	$emissiveBlendFlowTexture "vgui/white"
+	$emissiveBlendTint "[ 0.1 0.1 0 ]"
+	$emissiveBlendScrollVector "[ 0 0 ]"
+}
+
+

@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture "models/grinchfox/head_wear/gangwrap_kiss"
+	$selfillum 1
+	$selfillumtint "[0.3 1 0.2]"
+	$nocull 1
+	$halflambert 1
+	$bumpmap "models/grinchfox/head_wear/gangwrap_normal"
+	$phong 1
+	$phongexponent   ".5"
+ 	$phongboost   "0.2"
+ 	$phongfresnelranges   "[0.2 0.2 1]"
+	$rimlight	1
+	$rimlightexponent	2
+	$rimlightboost	1
+}

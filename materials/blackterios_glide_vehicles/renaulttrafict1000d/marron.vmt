@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "blackterios_glide_vehicles/renaulttrafict1000d/marron"
+	"$surfaceprop" "Metal"
+	"$nocull" "1"
+	"$colorfix" "{255 255 255 }"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+
+}
+

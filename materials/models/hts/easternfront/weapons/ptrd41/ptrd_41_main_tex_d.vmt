@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	$basetexture "models/hts/easternfront/weapons/ptrd41/ptrd_41_main_tex_d"
+	$bumpmap "models/hts/easternfront/weapons/ptrd41/ptrd_41_main_tex_n"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.05 0.05 0.05]"
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongtint "[0.91 0.86 0.75]"
+	$phongexponent 15
+	$phongboost 1.59
+
+	$color2 "[0.90 0.90 0.90]"
+}

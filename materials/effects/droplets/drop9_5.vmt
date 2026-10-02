@@ -1,0 +1,17 @@
+"DecalModulate"
+{
+"$basetexture" "effects/droplets/drop9"
+
+"$decalscale" "0.19208"
+"$decalscalevariation" "0.19208"
+"$decal" "1" 
+"$nocull" "1"
+"$translucent" "1"
+
+
+"$vertexcolor" "1"
+"$vertexalpha" "1"
+
+
+}
+

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "dejtriyev/enhanced_national_guard/nationalguardberet_red"
+        "$halflambert" 1
+	$nocull 1
+}

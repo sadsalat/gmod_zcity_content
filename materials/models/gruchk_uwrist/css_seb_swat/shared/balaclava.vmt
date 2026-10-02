@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gruchk_uwrist/css_seb_swat/shared/balaclava"
+	"$nocull" 1
+}

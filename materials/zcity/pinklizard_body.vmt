@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "zcity/PinkLizard_Body"
+	"$normalmap" "zcity/PinkLizard_Body_Normal"
+	"$surfaceprop" "Flesh"
+	"$model" 1
+}

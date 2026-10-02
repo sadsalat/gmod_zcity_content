@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	$basetexture "models/hts/easternfront/weapons/mosin/mosin_m_44_main_tex_d"
+	$bumpmap "models/hts/easternfront/weapons/mosin/mosin_m_44_main_tex_n"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.02 0.02 0.02]"
+
+	$phong 1
+	$phongfresnelranges "[0.34 0.67 1]"
+	$phongtint "[0.73 0.86 0.99]"
+	$phongexponent 37
+	$phongboost 1.76
+	$phongalbedoboost 2.06
+
+	$color2 "[0.50 0.50 0.50]"
+}

@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/eft/armor/mats/AR_6B13_flora"
+    "$bumpmap" "models/eft/armor/mats/ar_6b13_n"
+
+    "$phong" "1"
+    "$phongexponenttexture" "models/eft/armor/mats/ar_6b13_g"
+//    "$phongalbedotint" "1"
+    "$phongboost" "0.4"
+    "$phongfresnelranges"    "[.3 .3 .3]"
+}

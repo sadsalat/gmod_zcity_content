@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "zcity/weapons/zoraki/mat1"
+	"$bumpmap" "zcity/weapons/zoraki/norm"
+	"$model" 1
+}

@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	$basetexture "models/hts/easternfront/weapons/shells/bullets_1_copperwash_col"
+	$bumpmap "models/hts/easternfront/weapons/shells/bullets_1_brass_nml"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.11 0.06 0.06]"
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongtint "[0.73 0.27 0.16]"
+	$phongexponent 7
+	$phongboost 3.24
+
+	$color2 "[0.66 0.60 0.58]"
+}

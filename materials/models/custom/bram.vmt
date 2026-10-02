@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+	$basetexture "models/custom/batram"
+	$bumpmap "models/custom/batram_nm"
+	$surfaceprop Metal
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.06 0.06 0.06]"
+	$envmapsaturation 0.96
+
+	$phong 1
+	$phongfresnelranges "[4 8 5]"
+	$phongexponent 6
+	$phongboost 0.05
+
+	$rimlight 1
+	$rimlightexponent 2
+	$rimlightboost 1
+
+	$model 1
+}

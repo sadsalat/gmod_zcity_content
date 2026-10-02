@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture" "blackterios_vehicles/shared/coloresblackterioshared"
+	"$surfaceprop" "Metal"
+	"$colorfix" "{0 0 255 }"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+
+}

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\mpd\pig_shared\monoranks\rank_chef"
+                "$translucent" 1
+	"$nocull" 1
+	"$halflambert" 1
+	"$clamps" 1
+	"$clampt" 1
+
+	"$rimlight" "1"
+	"$rimlightexponent" "8"
+	"$rimlightboost" "2"
+	"$rimmask" "1"
+}

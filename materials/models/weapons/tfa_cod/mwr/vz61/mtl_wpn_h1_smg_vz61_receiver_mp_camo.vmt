@@ -1,0 +1,17 @@
+"VertexLitGeneric" {
+	$basetexture 			"models/weapons/tfa_cod/mwr/vz61/re_d"
+	$color2 "[0 0 0]"
+	$blendtintbybasealpha  "1"
+	$bumpmap 				"models/weapons/tfa_cod/mwr/vz61/re_n"
+	$phongexponenttexture	"models/weapons/tfa_cod/mwr/vz61/re_e"
+
+	$phong "1"
+	$phongboost "16"
+	$phongfresnelranges "[0 0.1 1.0]"
+	$phongalbedotint "0"
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.3 0.3 0.3]"
+	$normalmapalphaenvmapmask "1"
+	$envmapfresnel "1"
+}

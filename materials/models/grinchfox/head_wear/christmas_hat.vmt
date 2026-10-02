@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/grinchfox/head_wear/christmas_hat"
+	$bumpmap "models/grinchfox/head_wear/christmas_hat_normal"
+	$blendtintbybasealpha 1
+	$blendtintcolorbase 0
+	//$vertexcolor 1
+}

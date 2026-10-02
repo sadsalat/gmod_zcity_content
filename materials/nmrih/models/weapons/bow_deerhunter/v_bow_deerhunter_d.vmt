@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+	$baseTexture "nmrih\models\weapons\bow_deerhunter\v_bow_deerhunter_d"
+	$bumpmap "nmrih\models\weapons\bow_deerhunter\v_bow_deerhunter_n"
+
+	$halflambert "1"
+	$selfillum "1"
+	$phong "1"
+	$phongtint "[.12 .15 .11]"
+	$phongboost "3"
+	$phongexponent "20"
+	$phongfresnelranges "[1 1 1]"
+
+	$envmap "env_cubemap"
+	$envmaptint "[.03 .03 .03]"
+	$normalmapalphaenvmapmask "1"
+
+	$rimlight "1"
+	$rimlightexponent "15"
+	$rimlightboost "1"
+}

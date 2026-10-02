@@ -1,0 +1,5 @@
+VertexlitGeneric
+{
+	$basetexture models\4630_ammobox\4630_ammobox.vtf
+	$surfaceprop paper
+}

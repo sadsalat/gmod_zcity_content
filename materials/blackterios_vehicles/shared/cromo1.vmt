@@ -1,0 +1,28 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "blackterios_vehicles/shared/cromo1"
+
+	"$bumpmap" "blackterios_vehicles/shared/bump"
+
+	"$surfaceprop" "Metal"
+	"$nodecal" "1"
+                "$nocull" "1"
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost"	"2"
+	"$envmap" "env_cubemap"
+	"$envmapfresnel" "1.7"
+	"$phongfresnelranges" "[.4 .7 4]"
+	"$envmaptint" "[0.6 0.6 0.6]"
+	"$phongfix" "{20 20 20}"
+	"$colorfix" "{150 150 150 }"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+
+}

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "pm9v2/1"
+	$bumpmap "pm9v2/1_n"
+}

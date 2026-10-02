@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "blackterios_glide_vehicles/fiatduna/dunaa co"
+	"$surfaceprop" "Metal"
+	"$colorfix" "{255 255 255 }"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+
+}
+

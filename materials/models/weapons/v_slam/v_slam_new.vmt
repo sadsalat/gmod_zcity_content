@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/weapons/v_slam/v_slam_new"
+	"$bumpmap" "Models/weapons/v_slam/v_slam_new_normal"
+    "$selfillum" "1"
+
+	"$phong"					"1"
+	"$phongboost"				"0.15"
+	"$phongexponent"			"10"
+	"$phongfresnelranges"		"[2 4 6]"
+	"$phongtint"				"[0.75 0.7 0.6]"
+				
+	"$envmap"					"env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"				"[.066 .06 .05]"
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedTextureVar" "$basetexture"
+			"animatedTextureFrameNumVar" "$frame"
+			"animatedTextureFrameRate" "2"
+		}
+	}
+}

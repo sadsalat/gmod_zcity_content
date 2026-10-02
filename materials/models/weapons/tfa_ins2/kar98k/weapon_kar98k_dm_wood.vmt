@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models\weapons\tfa_ins2\kar98k\weapon_kar98k_worn_dm"
+	"$bumpmap"				"models\weapons\tfa_ins2\kar98k\weapon_kar98k_worn_nm"
+	"$phongexponenttexture" "models\weapons\tfa_ins2\kar98k\weapon_kar98k_exp"
+
+	"$phong"  				"1"
+	"$phongboost" 			"1"
+	"$phongfresnelranges"	"[0.04 0.05 0.5]"
+	"$phongalbedotint" 		"0"	
+
+	"$envmapfresnel"	"1"
+	"$envmap"			"env_cubemap"
+	"$envmaptint"		"[0.05 0.05 0.05]"
+	"$normalmapalphaenvmapmask"	"1"
+}

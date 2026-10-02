@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\zcity\headboom\meatcapinsect"
+    "$bumpmap"     "models\zcity\headboom\meatcapinsect_n"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+
+	"$phong" "1"
+	"$phongexponent" "2"
+	"$phongboost" ".175"
+	"$phongfresnelranges"	"[.5 .25 0]"
+	"$phongtint" "[.6 1 .6]"
+}

@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "blackterios_glide_vehicles/fiatduna/tex2"
+	"$translucent" "1"
+	"$allowdiffusemodulation" "false"
+
+   	"$selfillum" "1"
+    	"$selfillummask" "blackterios_glide_vehicles/fiatduna/tex2emm"
+	"$selfillumtint" "[1 1 0.8]"
+}

@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "nmrih/models/weapons/bow_deerhunter/v_bow_deerhunter_bits_d"
+	"$bumpmap" "nmrih/models/weapons/bow_deerhunter/v_bow_deerhunter_bits_n"
+	"$selfillum" 1
+	"$normalmapalphaenvmapmask" 1 
+	"$model" 1
+	"$surfaceprop" "weapon"
+}

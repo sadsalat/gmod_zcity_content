@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/gang_groove_chem/gang_groove_chem_mask"
+
+	"$bumpmap" "models/gang_groove_chem/gang_groove_chem_mask_normal"
+
+	"$normalmapalphaenvmapmask" 1
+	"$bumpmap" "models/gang_1/gang_1_sun_glass_normal"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .75 .75 .75]"
+	"$translucent" 1	
+
+}
+

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/gfreakman/gordon/hev_sheet"
+	"$bumpmap" "Models/gfreakman/gordon/hev_sheet_normal"
+	"$halflambert" 1
+}

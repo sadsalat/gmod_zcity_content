@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+
+$basetexture   "pwb2/models/weapons/v_vectorsmg/sight_diff"
+$bumpmap   "pwb2/models/weapons/v_vectorsmg/sight_norm"
+$phongexponenttexture "pwb2/models/weapons/v_vectorsmg/sight_spec"
+
+$phong 1
+$phongboost 1
+$phongfresnelranges "[1 1 1]"
+
+$envmap "env_cubemap"
+$envmaptint "[.040 .040 .040]"
+$normalmapalphaenvmapmask 1
+
+$rimlight 1
+$rimmask 1
+$rimlightexponent 20
+$rimlightboost 1
+
+}

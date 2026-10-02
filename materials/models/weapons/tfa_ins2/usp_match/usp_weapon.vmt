@@ -1,0 +1,24 @@
+VertexLitGeneric
+{
+	$basetexture				"models/weapons/tfa_ins2/usp_match/usp_d"
+	$bumpmap					"models/weapons/tfa_ins2/usp_match/usp_n"
+	$phongexponenttexture		"models/weapons/tfa_ins2/usp_match/usp_g"
+
+	$nocull						"1"
+
+	$selfillum					"1"
+	$selfillummask				"models/weapons/tfa_ins2/usp_match/usp_si"
+	$selfillumtint				"[0.25 1 0]"
+
+	$phong						"1"
+	$phongexponent				"65"
+	$phongboost					"1"
+	$phongfresnelranges			"[0.5 1 5]"
+	$phongtint					"[0.8 0.9 1]"
+	$phongalbedotint			"1"
+
+	$envmap						"env_cubemap"
+	$normalmapalphaenvmapmask	"1"
+	$envmaptint					"[0.011 0.015 0.020]"
+	$envmapfresnel				"0"
+}

@@ -1,0 +1,22 @@
+"Vertexlitgeneric"
+{
+	// MAIN SETTINGS
+	"$basetexture"					"models/weapons/tool_barricade/diffuse"
+	"$bumpmap"						"models/weapons/tool_barricade/normal"
+	// PHONG SHADING
+	"$phong"						"1"
+	"$phongboost"					"1"
+	"$phongfresnelranges"			"[.2 2 1]"
+	"$phongtint"					"[.9 .9 1]"
+	"$phongexponenttexture"			"models/weapons/tool_barricade/gloss"
+	"$normalmapalphaphongmask"		"1"
+	// ENVIRONMENT REFLECTION
+	"$envmap"						"env_cubemap"
+	"$envmaptint"					"[.008 .008 .008]"
+	"$envmapfresnel"				"1"
+	"$normalmapalphaenvmapmask"		"1"
+	"$alphatest"					"1"
+	"$detail"						"detail/metal_detail_01"
+	"$detailblendfactor"			"1"
+	"$detailscale"					"3"
+}

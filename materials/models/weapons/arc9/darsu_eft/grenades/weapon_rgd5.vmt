@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/arc9/darsu_eft/grenades/rgd_5_dif"
+	"$bumpmap" "models/weapons/arc9/darsu_eft/grenades/rgd_5_nrm"
+	"$phong"		"1"
+	"$phongboost"	"0.1"
+	"$phongexponent"	"20"
+	"$blendtintbybasealpha"	"1"
+	"$phongalbedotint"		"1"
+	"$phongfresnelranges"	"[0.8 0.9 2]"
+	"$rimlight"	"1"
+	"$rimlightexponent"		"35"
+	"$rimmask"	"1"
+	"$rimlightboost"	"0.2"
+	"$envmap"	"env_cubemap"
+	"$envmaptint"	"[ 0.1 0.1 0.1]"
+}

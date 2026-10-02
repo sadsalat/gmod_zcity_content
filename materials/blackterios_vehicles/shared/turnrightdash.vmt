@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "blackterios_vehicles/shared/coloresblackterioshared"
+	"$surfaceprop" "Metal"
+	"$colorfix" "{0 255 0 }"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+
+}

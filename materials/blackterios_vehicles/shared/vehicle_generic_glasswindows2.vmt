@@ -1,0 +1,37 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "blackterios_vehicles/shared/vehicle_generic_glasswindows2"
+	"$surfaceprop" "Glass"
+	"$nocull" "1"
+	"$decal" "1"
+	"$translucent" 1
+	"$nodecal" "1"
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost"	"2"
+	"$envmap" "env_cubemap"
+	"$envmapfresnel" "1.0"
+	"$phongfresnelranges" "[.4 .7 4]"
+	"$envmaptint" "[0.3 0.3 0.3]"
+	"$phongfix" "{20 20 20}"
+	"$colorfix" "{255 255 255 }"
+	Proxies
+	{ 
+		Equals
+		{
+			srcVar1 $color
+			resultVar $phongtint
+		}
+		Add
+		{
+			srcVar1 $phongfix
+			srcVar2 $phongtint
+			resultVar $phongtint
+		}		
+		Equals
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}
